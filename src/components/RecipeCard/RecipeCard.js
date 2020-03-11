@@ -1,11 +1,11 @@
 import React from 'react';
 
-export default function Recipe() {
+export default function RecipeCard() {
     
 
     return (
         <div className="container">
-            <h1>REcipe</h1>  
+            <h1>recipe card</h1>  
         </div>
     )
 }
